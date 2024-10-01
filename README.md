@@ -5,8 +5,8 @@
 - 👀 I’m interested in creating fascinating WebApps  
 - 🌱 I’m currently learning Solidity.
 - 💞️ I’m looking to collaborate on ... \
-$\textsf{\color{orange}Languages:   JavaScript, Typescript}$ 
-$\texttt{\color{orange}Learning:   Solidity}$ \
+$\textsf{\color{orange}Languages:   JavaScript, Typescript}$ \
+$\texttt{\color{orange}Learning:   Solidity}$ 
 
 
 <!---
