@@ -4,8 +4,10 @@
 - I'm a passionate Front End Developer, I'm here to document my journey and story.
 - 👀 I’m interested in creating fascinating WebApps  
 - 🌱 I’m currently learning Solidity.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on ... \
+$\textsf{\color{orange}Languages:   JavaScript, Typescript}$ 
+$\texttt{\color{orange}Learning:   Solidity}$ \
+
 
 <!---
 cybprom/cybprom is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
